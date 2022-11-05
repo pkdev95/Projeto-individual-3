@@ -1,0 +1,29 @@
+{
+    "alunos": [
+        { "id" :1, "nome" : " josé Carlos ", "idade": 20, "altura": 1.75},
+        { "id" :2, "nome" : " Pedro Guilherme ", "idade": 17, "altura": 1.65},
+        { "id" :3, "nome" : " Raul rufino ", "idade": 19, "altura": 1.72},
+        { "id" :4, "nome" : " João Miguel ", "idade": 18, "altura": 1.73},
+        { "id" :5, "nome" : " Will Costa ", "idade": 15, "altura": 1.66}
+
+
+    ],
+
+    "professores" : [
+        {"id" : 1 , "nome" : " Rita Maria ", "idade": 32, "formação": "Letras - UFMG"},
+        {"id" : 2 , "nome" : "Cláudio Pereira", "idade": 29, "formação": "Educacão Física - Estácio "},
+        {"id" : 3 , "nome" : "Lucas Silva", "idade": "37", "formação": "Sociologia - Anhanguera"},
+        {"id" : 4 , "nome" : "Lidia Santiago", "idade": "45", "formação": "História - Uninter"},
+        {"id" : 5 , "nome" : "Lucia Domingues", "idade": "52", "formação":"Química - UFRJ"}
+    ],
+
+    "disciplinas" : [
+        {"id" : 1, "disciplina": "Português" },
+        {"id" : 2, "disciplina": "Educação Física"},
+        {"id" : 3, "disciplina": "Sociologia"},
+        {"id" : 4, "disciplina":"História"},
+        {"id" : 5, "disciplina":"Química"}
+
+    ]
+    
+}
